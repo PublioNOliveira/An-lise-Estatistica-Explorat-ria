@@ -1,0 +1,24 @@
+Nome, Idade, Genero, Curso, Periodo, AnoEntrada, SemestreEntrada, MaiorNota, MenorNota, Profissao, Salario, 
+João, 22, Masculino, bcc, 2, 2020, 2, 10.0, 1.0, Dev, 2000,00
+Maria, 23, Feminino, lc, 3, 2019, 2, 9.5, 0.0, Teste, 1000,00
+Ronaldo, 45, Masculino, lc, 8, 2015, 1, 10.0, 6.0, Dev, 5000,00
+Cláudio, 40, Masculino, Matemática, 4, 2018, 3, 9.7, 0.0, estagiário, 1000,00
+Marcos, 23, Masculino, Matemática, 4, 2018, 3, 9.7, 0.0, estagiário, 1500,00
+Paulo, 22, Masculino, Física, 4, 2018, 3, 7.7, 0.0, dev, 1800,00
+Pedro, 30, Masculino, História, 4, 2020, 3, 9.7, 1.0, estagiário, 1400,00
+Bianca, 24, Feminino, lc, 3, 2018, 2, 8.5, 0.0, administrivo, 2000,00
+Helena, 25, Feminino, lc, 2, 2019, 2, 9.5, 0.0, dev, 2200,00
+Sílvia, 28, Feminino, BCC, 5, 2019, 2, 9.5, 0.0, professor, 4000,00
+Manoel, 22, Masculino, Matemática, 4, 2018, 3, 10.0, 0.0, programador, 3500,00
+Sheila, 30, Feminino, BSI, 3, 2021, 2, 10.0, 6.0, Técnico, 1000,00
+Mariana, 23, Feminino, Geografia, 2, 2019, 2, 9.5, 6.5, motorista, 2000,00
+Carolina, 23, Feminino, Medicina, 5, 2019, 2, 9.5, 0.5, cobradora 1100,00
+Ana, 40, Feminino, lc, 3, 2020, 2, 8.5, 0.0, técnico, 2500,00
+Péricles, 38, Masculino, Matemática, 4, 2018, 3, 9.7, 0.0, dev, 2550,00
+Diego, 25, Masculino, Matemática, 4, 2018, 3, 9.3, 0.2, professor, 3500,00
+Camila, 23, Feminino, lc, 3, 2019, 2, 9.5, 0.1, Teste, 1000,00
+Paulo, 23, Feminino, veterinária, 3, 2019, 2, 9.3, 4.0, porteiro, 1100,00
+Roberto, 21, Masculino, Matemática, 4, 2018, 3, 9.7, 0.0, estagiário, 990,00
+
+
+
